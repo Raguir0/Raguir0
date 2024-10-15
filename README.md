@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/raguir0/raguir0/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
